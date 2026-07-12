@@ -34,6 +34,9 @@ const IMAGES = [
   { src: "public/img/pixelart/beeee2.png" },
   { src: "public/img/pixelart/reimu.png" },
   { src: "public/img/pixelart/mikuleek.png" },
+  { src: "public/img/pixelart/mikuup.png" },
+  { src: "public/img/pixelart/goldship.png" },
+  { src: "public/img/pixelart/phos.png" },
   { src: "public/img/portrait/birthday.jpg" },
   { src: "public/img/portrait/felti.jpg" },
   { src: "public/img/portrait/ghost_trick.jpg" },
@@ -66,10 +69,15 @@ const IMAGES = [
   { src: "public/img/vs/casual_lev.png" },
   { src: "public/img/vs/casual_mon.png" },
   { src: "public/img/vs/casual_tan.png" },
+  { src: "public/img/vs/cifbee.png" },
   { src: "public/img/comic/lillie_comic_01.png" },
   { src: "public/img/comic/lillie_comic_02.png" },
   { src: "public/img/comic/lillie_comic_03.png" },
   { src: "public/img/comic/lillie_comic_04.png" },
+  { src: "public/img/comic/cs_p1.png" },
+  { src: "public/img/comic/cs_p2.png" },
+  { src: "public/img/comic/cs_p3.png" },
+  { src: "public/img/comic/cs_p4.png" },
 ]
 
 /**
