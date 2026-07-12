@@ -1,8 +1,8 @@
 const { ul, li, a } = van.tags
 
 const LINKS = [
-  { href: "/", label: "Home" },
-  { href: "/gallery.html", label: "Gallery" },
+  { href: "index.html", label: "Home" },
+  { href: "gallery.html", label: "Gallery" },
 ]
 
 const Header = () => ul(
