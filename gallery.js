@@ -11,6 +11,8 @@ const IMAGES = [
   { src: "public/img/landscape/reimu.jpg" },
   { src: "public/img/landscape/test.jpg" },
   { src: "public/img/landscape/amaurot.jpg" },
+  { src: "public/img/landscape/vssky.png" },
+  { src: "public/img/landscape/color.png" },
   { src: "public/img/mono/doremi_color.jpg" },
   { src: "public/img/mono/doremy.jpg" },
   { src: "public/img/mono/pumpiino_blender.jpg" },
