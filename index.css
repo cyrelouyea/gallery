@@ -193,7 +193,7 @@ nav > ul > li {
   /* object-fit: contain; */
   max-width: 100%;
   max-height: 100%;
-  filter: grayscale(1) contrast(200%) ;
+  filter: contrast(100%) ;
   transition: all 0.2s ease-out, border 0.5s linear;
   border: 2px solid transparent;
   z-index: 0;
@@ -243,10 +243,10 @@ nav > ul > li {
 .modal .modal-content {
   position: absolute;
   background-color: var(--secondary-color);
-  border: 3px solid var(--primary-color);
+  outline: 1px solid var(--primary-color);
   margin: 15% auto;
-  width: 80%;
-  height: 90%;
+  width: 95vw;
+  height: 95vh;
   filter: blur(0);
   animation: appear 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
